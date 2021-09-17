@@ -1,11 +1,11 @@
 {% assign contact = site.data.data.contact %}
 {% if contact %}
 <section class="contact">
-    <div class="title">Contact</div>
+    <div class="title">Contato</div>
     {% if contact.email %}
         <div class="contact-item">
             <i data-feather="mail"></i>
-            <a href="#">
+            <a href="#" alt="E-mail">
                 {{contact.email}}
             </a>
         </div>
@@ -14,7 +14,7 @@
     {% if contact.phone %}
         <div class="contact-item">
             <i data-feather="phone"></i>
-            <a href="#">
+            <a href="#" alt="Telefone para contato">
                 {{contact.phone}}
             </a>
         </div>
@@ -23,7 +23,7 @@
     {% if contact.github %}
         <div class="contact-item">
             <i data-feather="github"></i>
-            <a href="https://github.com/{{contact.github}}">
+            <a href="https://github.com/{{contact.github}}" alt="Perfil do Gihut">
                 {{contact.github}}
             </a>
         </div>
@@ -32,7 +32,7 @@
     {% if contact.linkedin %}
         <div class="contact-item">
             <i data-feather="linkedin"></i>
-            <a href="https://linkedin.com/in/{{contact.linkedin}}">
+            <a href="https://linkedin.com/in/{{contact.linkedin}}" alt="Perfil do Linkedin">
                 {{contact.linkedin}}
             </a>
         </div>
@@ -41,7 +41,7 @@
     {% if contact.twitter %}
         <div class="contact-item">
             <i data-feather="twitter"></i>
-            <a href="https://twitter.com/{{contact.twitter}}">
+            <a href="https://twitter.com/{{contact.twitter}}" alt="Perfil do Twitter">
                 {{contact.twitter}}
             </a>
         </div>
@@ -50,7 +50,7 @@
     {% if contact.gitlab %}
         <div class="contact-item">
             <i data-feather="gitlab"></i>
-            <a href="https://gitlab.com/{{contact.gitlab}}">
+            <a href="https://gitlab.com/{{contact.gitlab}}" alt="Perfil do Gitlab">
                 {{contact.gitlab}}
             </a>
         </div>
