@@ -3,7 +3,7 @@ support_dark_mode: true
 fork: true
 
 # Sidebar
-Contato:
+contact:
   email: nelio13alves@gmail.com
   github: alvesnelio
   linkedin: alvesnelio
@@ -11,12 +11,12 @@ Contato:
   #gitlab: 
   twitter: alvesnelioo
 
-Idiomas:
+languages:
   - idiom: English (Basico)
   - idiom: Espanhol (Basico).
   - idiom: Português (Fluente, Nativo).
 
-Formação:
+education:
   - degree: Analise e Desenvolvimento de Sistemas
     time: 2015-2018
     university: FATEC - Faculdade de Tecnologia
@@ -25,7 +25,7 @@ Formação:
     time: 2015-2017
     university: SENAI Cuiabá
 
-Habilidades:
+skills:
   - category: Backend
     skill: 
       - PHP5.6
