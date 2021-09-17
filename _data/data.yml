@@ -1,44 +1,53 @@
-name: John Doe
+name: Nélio Souza Alves
 support_dark_mode: true
 fork: true
 
 # Sidebar
 contact:
-  email: info@johndoe.com
-  github: johndoe
-  linkedin: johndoe
-  phone: 
-  gitlab: 
-  twitter: 
+  email: nelio13alves@gmail.com
+  github: alvesnelio
+  linkedin: alvesnelio
+  phone: 5565999971751
+  #gitlab: 
+  twitter: alvesnelioo
 
 languages:
-  - idiom: English
-  - idiom: Russian
-  - idiom: French
+  - idiom: English (Basico)
+  - idiom: Espanhol (Basico).
+  - idiom: Português (Fluente, Nativo).
 
 education:
-  - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
+  - degree: Analise e Desenvolvimento de Sistemas
+    time: 2015-2018
+    university: FATEC - Faculdade de Tecnologia
 
-  - degree: BSc in Computer Science
-    time: 2010-2014
-    university: Ionian University
+  - degree: Informatica Para Internet
+    time: 2015-2017
+    university: SENAI Cuiabá
 
 skills:
   - category: Backend
     skill: 
-      - Go
-      - Rust
+      - PHP5.6
+      - PHP7
+      - PHP
   - category: Frontend
     skill:
-      - React
+      - HTML
+      - CSS
+      - Javascript
       - Typescript
+      - Jquery
+      - React
   - category: DevOps
     skill:
-      - Docker
-      - Kubernetes 
-
+      - Docker 
+  - category: Frameworks
+    skill:
+      - Bootstraṕ
+      - Materialize
+      - Symfony
+      - Joomla
 # Profile
 profile: |
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
