@@ -7,9 +7,10 @@ contact:
   email: nelio13alves@gmail.com
   github: alvesnelio
   linkedin: alvesnelio
-  phone: 
+  phone: +5565984152525
   #gitlab: 
   twitter: alvesnelioo
+  medium: alvesnelio
 
 languages:
   - idiom: English (Basico)
@@ -17,13 +18,13 @@ languages:
   - idiom: Português (Fluente, Nativo).
 
 education:
-  - degree: Analise e Desenvolvimento de Sistemas
+  - degree: Analise de Sistemas
     time: 2015-2018
-    university: FATEC - Faculdade de Tecnologia
+    university: FATEC - Cuiabá
 
   - degree: Informatica Para Internet
     time: 2015-2017
-    university: SENAI Cuiabá
+    university: SENAI - Cuiabá
 
 skills:
   - category: Backend
@@ -31,87 +32,122 @@ skills:
       - PHP5.6
       - PHP7
       - PHP
+
   - category: Frontend
     skill:
       - HTML
+      - HTML5
       - CSS
+      - CSS3
       - Javascript
       - Typescript
       - Jquery
       - React
+      - Node
+      - Yarn
+
   - category: DevOps
     skill:
-      - Docker 
+      - Docker
+
   - category: Frameworks
     skill:
-      - Bootstraṕ
+      - Bootstrap
       - Materialize
       - Symfony
       - Joomla
+
 # Profile
 profile: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-  fugiat nulla pariatur.
+  Formado no curso tecnólogo de análise e desenvolvimento de sistema pela FATEC (Faculdade de Tecnologia) do município de Cuiabá. 
+  Tenho experiências com as tecnologias front-end para websites como, javascript, html, css, bootstrap, sass, json, 
+  também possuo expeciencias com tecnologias back-end como php, symfony e joomla. 
+  Principal desenvolvedor das ferramentas de acessibilidade web para a empresa MPX Brasil, 
+  trabalhei como gestor de desenvolvimento pela empresa MPX Brasil e tenho disponibilidade para trabalhar de forma integral ou meio período.
 
 # Experience
 experience:
-  - role: Software Engineer
-    time: 2020-Present
-    company: Google
+  - role: Desenvolvedor PHP
+    time: Novembro de 2019 - Presente
+    company: ALMT | LOGLAB INTELIGENCIA DIGITAL.
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+      Desenvolvedor de software com tecnologias PHP, primeiro serviço desenvolvido para a ALMT foi o serviço E-Normas, que trata de um serviço de cadastro e mapeamentos histórico das leis legislativas do estado de Mato Grosso.
+      Um dos principais desenvolvedores front-end do projeto Ser-Familia, projeto com da ALMT em parceria com estado de Mato Grosso.
+      Desenvolvedor da tecnologia de reset de senha com o FOSUserBundle do symfony 3.
+      Manutenção de codigos legados da ALMT e manutenção de serviços ja existentes.
     technologies_used: | 
-      Go, Angular, Typescript, C++
+      Bootstrap, JQuery, PHP5.6, PHP7, Docker, GitLab, MySQL, HTML5, CSS3, Javascript, JSON, Media Query, Sass, Less, Behat, BDD, PHP Unit, MVC, POO, Symfony (FrameWork).
   
-  - role: Researcher
-    time: 2016-2020
-    company: Microsoft
+  - role: Desenvolvedor WEB (Freelance)
+    time: Novembro de 2019 - Novembro de 2020
+    company: Faça Web Sites!
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+      Desenvolvedor de websites institucionais para clientes da empresa Faça Web Sites!
+      Fui responsável pela crianção de alguns serviços internos e o principal desenvolvedor de alguns sites de seus clientes, como o novo site da CDL Tangará da Serra 2020,
+      Novo site de Injeção sem Agulhas 2020 (Confortin), novo site da empresa Frialto e uma ferramenta de black fryday para o grupo saga do municipio de SINOP.
     technologies_used: | 
-      Python, Tensorflow, Keras, Matlab
+      Bootstrap, JQuery, PHP5.6, GitLab, MySQL, HTML5, CSS3, Javascript, JSON, Media Query, Sass e CMS PHP.
 
-publications:
-  - title: Random title of paper. An interesting one.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference, 2016
+  - role: Desenvolvedor web
+    time: Janeiro de 2019 - Novembro de 2020
+    company: MPX Brasil
+    details: |
+      Desenvolvedor de diversos produtos da empresa para orgãos públicos.
+      Serviços como ouvidoria, transparência, aistema de avaliação de servidor público da prefeitura de Mirassol D' Oeste, acessibilidade web, 
+      sistema de gerenciamento administrativo, sistema de atas para AMM e diversos outros modulos internos como, notícias, galeria de fotos, vídeos, audios,
+      modulos downloads de arquivos.
+    technologies_used: | 
+      Web APP, Bootstrap, JQuery, PHP5.6, PHP7, Docker, GITLAB MySQL, HTML5, CSS3, Javascript, JSO, Media Query, Sass e Less.
 
-  - title: Second title of paper. An interesting one too.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference again, 2018
+  - role: Desenvolvedor de Software
+    time: Março de 2015 - Dezembro de 2018
+    company: MPX Brasil
+    details: |
+      Desenvolvedor de diversos produtos da empresa para orgãos públicos.
+      Serviços como ouvidoria, transparência, aistema de avaliação de servidor público da prefeitura de Mirassol D' Oeste, acessibilidade web, 
+      sistema de gerenciamento administrativo, sistema de atas para AMM e diversos outros modulos internos como, notícias, galeria de fotos, vídeos, audios,
+      modulos downloads de arquivos.
+    technologies_used: | 
+      Web APP, Bootstrap, JQuery, PHP5.6, PHP7, Docker, GITLAB MySQL, HTML5, CSS3, Javascript, JSO, Media Query, Sass e Less.
+
+# publications:
+#   - title: Random title of paper. An interesting one.
+#     link: "#"
+#     authors: John E. Doe
+#     conference: Some conference, 2016
+
+#   - title: Second title of paper. An interesting one too.
+#     link: "#"
+#     authors: John E. Doe
+#     conference: Some conference again, 2018
 
 projects:
-  - title: Cool Project 
-    link: #
+  - title: Ser-Familia
+    link: https://ser-familia.al.mt.gov.br
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
+      Um dos desenvolvedores do projeto ser-familia, especificamente na parte front-end com Bootstrap, Jquery, Node12 e no backend com o framework PHP Symfony.
 
-  - title: Cool Project 
-    link: #
+  - title: Confortin - Injeção sem Agulhas
+    link: https://www.injecaosemagulhas.com.br/
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
+      Principal desenvolvedor do front-end e back-end com as tecnologias Web APP, Bootstrap, JQuery, PHP5.6, PHP7, Docker, GITLAB MySQL, HTML5, CSS3, Javascript, JSO, Media Query, Sass e Less.
+
+  - title: SENAC
+    link: https://www.mt.senac.br/
+    details: |
+      Principal desenvolvedor do front-end e back-end com as tecnologias Web APP, Bootstrap, JQuery, PHP5.6, PHP7, Docker, GITLAB MySQL, HTML5, CSS3, Javascript, JSO, Media Query, Sass e Less.
+
+  - title: SEMA - Mato Grosso
+    link: http://www.sema.mt.gov.br/
+    details: |
+      Principal desenvolvedor do front-end e back-end com o framework Joomla.
 
 # Volunteering
-volunteering:
-  - time: 2020-Present
-    role: PR Manager
-    company: Some random organization
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+# volunteering:
+#   - time: 2020-Present
+#     role: PR Manager
+#     company: Some random organization
+#     details: |
+#       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+#       tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
+#       quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 

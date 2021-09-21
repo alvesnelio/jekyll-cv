@@ -5,7 +5,7 @@
     {% if contact.email %}
         <div class="contact-item">
             <i data-feather="mail"></i>
-            <a href="#" alt="E-mail">
+            <a href="#" alt="E-mail" target="_blank">
                 {{contact.email}}
             </a>
         </div>
@@ -14,8 +14,17 @@
     {% if contact.phone %}
         <div class="contact-item">
             <i data-feather="phone"></i>
-            <a href="#" alt="Telefone para contato">
+            <a href="#" alt="Telefone para contato" target="_blank">
                 {{contact.phone}}
+            </a>
+        </div>
+    {% endif %}
+
+    {% if contact.medium %}
+        <div class="contact-item">
+            <i data-feather="book-open"></i>
+            <a href="https://alvesnelio.medium.com/" alt="Perfil do Medium" target="_blank">
+                {{contact.medium}}
             </a>
         </div>
     {% endif %}
@@ -23,7 +32,7 @@
     {% if contact.github %}
         <div class="contact-item">
             <i data-feather="github"></i>
-            <a href="https://github.com/{{contact.github}}" alt="Perfil do Gihut">
+            <a href="https://github.com/{{contact.github}}" alt="Perfil do Gihut" target="_blank">
                 {{contact.github}}
             </a>
         </div>
@@ -32,7 +41,7 @@
     {% if contact.linkedin %}
         <div class="contact-item">
             <i data-feather="linkedin"></i>
-            <a href="https://linkedin.com/in/{{contact.linkedin}}" alt="Perfil do Linkedin">
+            <a href="https://linkedin.com/in/{{contact.linkedin}}" alt="Perfil do Linkedin" target="_blank">
                 {{contact.linkedin}}
             </a>
         </div>
@@ -41,7 +50,7 @@
     {% if contact.twitter %}
         <div class="contact-item">
             <i data-feather="twitter"></i>
-            <a href="https://twitter.com/{{contact.twitter}}" alt="Perfil do Twitter">
+            <a href="https://twitter.com/{{contact.twitter}}" alt="Perfil do Twitter" target="_blank">
                 {{contact.twitter}}
             </a>
         </div>
@@ -50,7 +59,7 @@
     {% if contact.gitlab %}
         <div class="contact-item">
             <i data-feather="gitlab"></i>
-            <a href="https://gitlab.com/{{contact.gitlab}}" alt="Perfil do Gitlab">
+            <a href="https://gitlab.com/{{contact.gitlab}}" alt="Perfil do Gitlab" target="_blank">
                 {{contact.gitlab}}
             </a>
         </div>
