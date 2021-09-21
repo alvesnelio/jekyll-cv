@@ -78,7 +78,7 @@ experience:
     technologies_used: | 
       Bootstrap, JQuery, PHP5.6, PHP7, Docker, GitLab, MySQL, HTML5, CSS3, Javascript, JSON, Media Query, Sass, Less, Behat, BDD, PHP Unit, MVC, POO, Symfony (FrameWork).
   
-  - role: Desenvolvedor WEB (Freelance)
+  - role: Desenvolvedor WEB (Freelancer)
     time: Novembro de 2019 - Novembro de 2020
     company: Faça Web Sites!
     details: |
@@ -97,7 +97,7 @@ experience:
       sistema de gerenciamento administrativo, sistema de atas para AMM e diversos outros modulos internos como, notícias, galeria de fotos, vídeos, audios,
       modulos downloads de arquivos.
     technologies_used: | 
-      Web APP, Bootstrap, JQuery, PHP5.6, PHP7, Docker, GITLAB MySQL, HTML5, CSS3, Javascript, JSO, Media Query, Sass e Less.
+      Web APP, Bootstrap, JQuery, PHP5.6, PHP7, Docker, GITLAB, MySQL, HTML5, CSS3, Javascript, JSO, Media Query, Sass e Less.
 
   - role: Desenvolvedor de Software
     time: Março de 2015 - Dezembro de 2018
@@ -108,7 +108,7 @@ experience:
       sistema de gerenciamento administrativo, sistema de atas para AMM e diversos outros modulos internos como, notícias, galeria de fotos, vídeos, audios,
       modulos downloads de arquivos.
     technologies_used: | 
-      Web APP, Bootstrap, JQuery, PHP5.6, PHP7, Docker, GITLAB MySQL, HTML5, CSS3, Javascript, JSO, Media Query, Sass e Less.
+      Web APP, Bootstrap, JQuery, PHP5.6, PHP7, Docker, GITLAB, MySQL, HTML5, CSS3, Javascript, JSO, Media Query, Sass e Less.
 
 # publications:
 #   - title: Random title of paper. An interesting one.
@@ -127,20 +127,32 @@ projects:
     details: |
       Um dos desenvolvedores do projeto ser-familia, especificamente na parte front-end com Bootstrap, Jquery, Node12 e no backend com o framework PHP Symfony.
 
+  - title: CDL Tangara da Serra
+    link: https://www.cdltangaradaserra.com.br/
+    details: |
+      Principal desenvolvedor do front-end e back-end com as tecnologias Web APP, Bootstrap, JQuery, PHP5.6, PHP7, Docker, GITLAB, MySQL, HTML5, CSS3, Javascript, JSO, Media Query, Sass e Less.
+
   - title: Confortin - Injeção sem Agulhas
     link: https://www.injecaosemagulhas.com.br/
     details: |
-      Principal desenvolvedor do front-end e back-end com as tecnologias Web APP, Bootstrap, JQuery, PHP5.6, PHP7, Docker, GITLAB MySQL, HTML5, CSS3, Javascript, JSO, Media Query, Sass e Less.
+      Principal desenvolvedor do front-end e back-end com as tecnologias Web APP, Bootstrap, JQuery, PHP5.6, PHP7, Docker, GITLAB, MySQL, HTML5, CSS3, Javascript, JSO, Media Query, Sass e Less.
 
   - title: SENAC
     link: https://www.mt.senac.br/
     details: |
-      Principal desenvolvedor do front-end e back-end com as tecnologias Web APP, Bootstrap, JQuery, PHP5.6, PHP7, Docker, GITLAB MySQL, HTML5, CSS3, Javascript, JSO, Media Query, Sass e Less.
+      Principal desenvolvedor do front-end e back-end com as tecnologias Web APP, Bootstrap, JQuery, PHP5.6, PHP7, Docker, GITLAB, MySQL, HTML5, CSS3, Javascript, JSO, Media Query, Sass e Less.
 
   - title: SEMA - Mato Grosso
     link: http://www.sema.mt.gov.br/
     details: |
       Principal desenvolvedor do front-end e back-end com o framework Joomla.
+
+  - title: MPX Brasil
+    link: https://www.mpxbrasil.com.br/
+    details: |
+      Principal desenvolvedor de alguns dos produtos, projetos da empresa e seus respectivos modulos, 
+      como transparência, ouvidoria, modulo de acessibilidade web, integração de acessibilidade com leitor de tela, intranet, 
+      sistema de gerenciamento administrativo ou gestão para associações municipais, sistema de avaliação de servidor público.
 
 # Volunteering
 # volunteering:
